@@ -8,3 +8,6 @@ opentelemetry-instrumentation-flask
 opentelemetry-instrumentation-requests
 
 watchtower
+
+blinker
+rollbar
